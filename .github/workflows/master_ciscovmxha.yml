@@ -26,4 +26,4 @@ jobs:
           app-name: 'CISCOvMXHA'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAABFE4CC129405CB379788E955B6139 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D8A03055E0C9452FA00D158487E94392 }}
